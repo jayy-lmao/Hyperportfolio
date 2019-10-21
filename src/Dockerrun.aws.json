@@ -1,0 +1,34 @@
+{
+  "AWSEBDockerrunVersion": 2,
+  "containerDefinitions": [
+    {
+      "name": "client",
+      "image":"jayylmao/hyperportfolio-client",
+      "hostname":"client",
+      "essential": false,
+      "memory": 128
+    },
+    {
+      "name": "server",
+      "image":"jayylmao/hyperportfolio-server",
+      "hostname":"api",
+      "essential": false,
+      "memory": 512
+    },
+    {
+      "name": "nginx",
+      "image":"jayylmao/hyperportfolio-nginx",
+      "hostname":"nginx",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort":80,
+          "containerPort":80
+        }
+      ],
+      "links": ["client", "server"]
+    }
+  ]
+}
+

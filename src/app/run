@@ -1,0 +1,12 @@
+#/usr/bin/bash
+# PYTHONDONTWRITEBYTECODE=1 gunicorn stocks_django.wsgi:application --bind 0.0.0.0:8000 --reload
+pipenv run pipenv install
+pipenv run python3 manage.py migrate
+pipenv run python3 manage.py loaddata users/data/auth.json
+pipenv run python3 manage.py loaddata portfolios/data/transactiontype.json
+sqlite3 db.sqlite3 < portfolios/sql/views/CreateViews.sql
+# pipenv run python3 manage.py runserver 0.0.0.0:8000
+gunicorn stocks_django.wsgi:application \
+  --bind 0.0.0.0:8000  \
+  --access-logfile - \
+  -w $(( 2 * `cat /proc/cpuinfo | grep 'core id' | wc -l` + 1 ))

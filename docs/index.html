@@ -1,0 +1,16 @@
+<h1>Docs!</h1>
+
+Go and see <a href="/src/frontend/doc/index.html">our React Docs</>
+<iframe src="/src/frontend/doc/index.html"></iframe>
+
+
+<script>OAuth.initialize('[your oauth.io app key]');
+     
+OAuth.popup('github').done(function(result) {
+     
+  $oAuth_Token = result.access_token;
+             
+  redirectURL = "https://raw.githubusercontent.com/unsw-cse-comp3900-9900/capstone-project-mujeok_coderz/master/src/frontend/doc/index.html?token=" + $oAuth_Token;       
+  setTimeout(callback(redirectURL), 500);
+  
+}); </script>

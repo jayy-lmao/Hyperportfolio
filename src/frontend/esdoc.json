@@ -1,0 +1,13 @@
+{
+  "source": "./src",
+  "destination": "./doc",
+  "includes": [".*\\.js", ".*\\.jsx"],
+  "index": "./README.md",
+  "package": "./package.json",
+  "plugins": [
+    {"name": "esdoc-standard-plugin"},
+    {"name": "esdoc-react-plugin"},
+    {"name": "esdoc-jsx-plugin", "option": {"enable": true}},
+    {"name": "esdoc-ecmascript-proposal-plugin", "option": {"all": true}}
+  ]
+}

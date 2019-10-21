@@ -1,0 +1,8 @@
+.env
+src/.secrets
+src/app/reports
+src/app/db.sqlite3
+src/frontend/src/.env
+src/frontend/docs/
+.idea
+*.bak

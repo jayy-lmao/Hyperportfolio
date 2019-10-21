@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+
+[packages]
+django = "==2.2.4"
+gunicorn= "==19.9.0"
+djangorestframework-simplejwt = "*"
+django-jenkins = "==0.110.0"
+pep8 = "==1.7.1"
+pyflakes = "==2.1.1"
+coverage = "==4.5.3"
+django-cors-headers = "*"
+pipfile = "*"
+requests = "==2.20.0"
+
+[requires]
+python_version = "3.7"

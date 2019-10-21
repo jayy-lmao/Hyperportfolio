@@ -1,0 +1,3002 @@
+[
+{
+  "model": "instruments.instrument",
+  "pk": 1,
+  "fields": {
+    "code": "ABP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:39:46.494Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 2,
+  "fields": {
+    "code": "AX1",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:39:51.714Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 3,
+  "fields": {
+    "code": "ABC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:41:38.285Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 4,
+  "fields": {
+    "code": "APT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:41:47.721Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 5,
+  "fields": {
+    "code": "AGL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:00.364Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 6,
+  "fields": {
+    "code": "AIZ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:05.282Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 7,
+  "fields": {
+    "code": "LEP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:10.925Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 8,
+  "fields": {
+    "code": "ALQ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:18.537Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 9,
+  "fields": {
+    "code": "ALU",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:25.193Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 10,
+  "fields": {
+    "code": "AWC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:29.742Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 11,
+  "fields": {
+    "code": "AMA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:38.611Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 12,
+  "fields": {
+    "code": "AMC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:42.673Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 13,
+  "fields": {
+    "code": "AMP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:42:49.981Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 14,
+  "fields": {
+    "code": "ANN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:43:08.333Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 15,
+  "fields": {
+    "code": "ANZ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:43:40.234Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 16,
+  "fields": {
+    "code": "APE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:43:45.859Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 17,
+  "fields": {
+    "code": "APA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:43:52.395Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 18,
+  "fields": {
+    "code": "ARB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:43:58.890Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 19,
+  "fields": {
+    "code": "ARF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:44:21.500Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 20,
+  "fields": {
+    "code": "ARG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:44:34.189Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 21,
+  "fields": {
+    "code": "ALL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:44:49.867Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 22,
+  "fields": {
+    "code": "ASX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:00.564Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 23,
+  "fields": {
+    "code": "ALX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:08.876Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 24,
+  "fields": {
+    "code": "AUB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:14.633Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 25,
+  "fields": {
+    "code": "AIA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:19.848Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 26,
+  "fields": {
+    "code": "AZJ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:27.478Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 27,
+  "fields": {
+    "code": "ASL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:32.344Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 28,
+  "fields": {
+    "code": "AST",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:37.495Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 29,
+  "fields": {
+    "code": "AAC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:41.727Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 30,
+  "fields": {
+    "code": "AFI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:45:58.218Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 31,
+  "fields": {
+    "code": "API",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:46:01.979Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 32,
+  "fields": {
+    "code": "AUI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:46:05.360Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 33,
+  "fields": {
+    "code": "ASB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T08:46:10.750Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 34,
+  "fields": {
+    "code": "AHG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:01:48.655Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 35,
+  "fields": {
+    "code": "AVN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:08.266Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 36,
+  "fields": {
+    "code": "AOG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:15.974Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 37,
+  "fields": {
+    "code": "AVH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:21.596Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 38,
+  "fields": {
+    "code": "BOQ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:35.836Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 39,
+  "fields": {
+    "code": "BAP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:40.869Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 40,
+  "fields": {
+    "code": "BPT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:44.903Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 41,
+  "fields": {
+    "code": "BGA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:50.084Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 42,
+  "fields": {
+    "code": "BAL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:54.316Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 43,
+  "fields": {
+    "code": "BEN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:02:58.151Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 44,
+  "fields": {
+    "code": "BHP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:01.799Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 45,
+  "fields": {
+    "code": "BIN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:05.244Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 46,
+  "fields": {
+    "code": "BKI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:11.514Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 47,
+  "fields": {
+    "code": "BKL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:16.232Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 48,
+  "fields": {
+    "code": "BSL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:20.097Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 49,
+  "fields": {
+    "code": "BLD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:24.435Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 50,
+  "fields": {
+    "code": "BXB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:29.003Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 51,
+  "fields": {
+    "code": "BVS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:36Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 52,
+  "fields": {
+    "code": "BRG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:40.612Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 53,
+  "fields": {
+    "code": "BKW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:46.896Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 54,
+  "fields": {
+    "code": "BGP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:52.784Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 55,
+  "fields": {
+    "code": "BWP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:03:57.316Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 56,
+  "fields": {
+    "code": "CTX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:03.555Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 57,
+  "fields": {
+    "code": "CIN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:29.412Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 58,
+  "fields": {
+    "code": "CVN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:36.728Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 59,
+  "fields": {
+    "code": "CAR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:40.736Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 60,
+  "fields": {
+    "code": "CNI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:44.597Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 61,
+  "fields": {
+    "code": "CIP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:49.483Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 62,
+  "fields": {
+    "code": "CMA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:53.412Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 63,
+  "fields": {
+    "code": "CGF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:04:59.522Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 64,
+  "fields": {
+    "code": "CIA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:03.788Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 65,
+  "fields": {
+    "code": "CQE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:08.147Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 66,
+  "fields": {
+    "code": "CHC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:11.989Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 67,
+  "fields": {
+    "code": "CQR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:24.257Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 68,
+  "fields": {
+    "code": "CNU",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:43.334Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 69,
+  "fields": {
+    "code": "CLW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:47.229Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 70,
+  "fields": {
+    "code": "CIM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:51.009Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 71,
+  "fields": {
+    "code": "CWY",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:54.495Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 72,
+  "fields": {
+    "code": "CUV",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:05:59.472Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 73,
+  "fields": {
+    "code": "CCL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:03.276Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 74,
+  "fields": {
+    "code": "COH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:09.275Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 75,
+  "fields": {
+    "code": "CDA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:12.895Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 76,
+  "fields": {
+    "code": "COL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:16.264Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 77,
+  "fields": {
+    "code": "CKF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:25.246Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 78,
+  "fields": {
+    "code": "CBA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:29.669Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 79,
+  "fields": {
+    "code": "CPU",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:33.339Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 80,
+  "fields": {
+    "code": "CEN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:37.991Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 81,
+  "fields": {
+    "code": "COE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:41.105Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 82,
+  "fields": {
+    "code": "CRN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:46.623Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 83,
+  "fields": {
+    "code": "CTD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:50.681Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 84,
+  "fields": {
+    "code": "CGC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:06:59.171Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 85,
+  "fields": {
+    "code": "CCP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:03.654Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 86,
+  "fields": {
+    "code": "CMW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:12.240Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 87,
+  "fields": {
+    "code": "CWN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:16.530Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 88,
+  "fields": {
+    "code": "CSL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:21.051Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 89,
+  "fields": {
+    "code": "CSR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:24.875Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 90,
+  "fields": {
+    "code": "CYB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:28.566Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 91,
+  "fields": {
+    "code": "DXS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:32.718Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 92,
+  "fields": {
+    "code": "DDR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:36.649Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 93,
+  "fields": {
+    "code": "DUI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:40.288Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 94,
+  "fields": {
+    "code": "DJW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:43.637Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 95,
+  "fields": {
+    "code": "DHG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:47.238Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 96,
+  "fields": {
+    "code": "DMP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:07:51.330Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 97,
+  "fields": {
+    "code": "DOW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:08:13.175Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 98,
+  "fields": {
+    "code": "DLX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:08:17.685Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 99,
+  "fields": {
+    "code": "EBO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:08:21.649Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 100,
+  "fields": {
+    "code": "ELD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:08:25.435Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 101,
+  "fields": {
+    "code": "EHL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:08:31.096Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 102,
+  "fields": {
+    "code": "EML",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:28.202Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 103,
+  "fields": {
+    "code": "EQT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:33.613Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 104,
+  "fields": {
+    "code": "EHE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:38.257Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 105,
+  "fields": {
+    "code": "GOLD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:44.425Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 106,
+  "fields": {
+    "code": "EVT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:48.169Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 107,
+  "fields": {
+    "code": "EVN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:51.614Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 108,
+  "fields": {
+    "code": "FPH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:55.650Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 109,
+  "fields": {
+    "code": "FBU",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:11:59.096Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 110,
+  "fields": {
+    "code": "FXL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:03.535Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 111,
+  "fields": {
+    "code": "FLT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:10.594Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 112,
+  "fields": {
+    "code": "FMG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:13.746Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 113,
+  "fields": {
+    "code": "FNP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:16.971Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 114,
+  "fields": {
+    "code": "GEM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:20.829Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 115,
+  "fields": {
+    "code": "GDI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:26.742Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 116,
+  "fields": {
+    "code": "GNE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:29.788Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 117,
+  "fields": {
+    "code": "GMA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:33.361Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 118,
+  "fields": {
+    "code": "GOR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:36.515Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 119,
+  "fields": {
+    "code": "GMG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:39.815Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 120,
+  "fields": {
+    "code": "GPT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:44.050Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 121,
+  "fields": {
+    "code": "GNC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:49.981Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 122,
+  "fields": {
+    "code": "GOZ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:12:55.145Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 123,
+  "fields": {
+    "code": "GUD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:01.060Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 124,
+  "fields": {
+    "code": "GWA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:04.554Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 125,
+  "fields": {
+    "code": "HSN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:17.670Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 126,
+  "fields": {
+    "code": "HVN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:27.409Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 127,
+  "fields": {
+    "code": "HLS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:31.135Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 128,
+  "fields": {
+    "code": "HGH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:34.626Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 129,
+  "fields": {
+    "code": "HM1",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:39.111Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 130,
+  "fields": {
+    "code": "HLO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:42.336Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 131,
+  "fields": {
+    "code": "HUB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:45.493Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 132,
+  "fields": {
+    "code": "HTA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:48.960Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 133,
+  "fields": {
+    "code": "IEL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:13:53.352Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 134,
+  "fields": {
+    "code": "ILU",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:22.458Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 135,
+  "fields": {
+    "code": "IMF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:26.632Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 136,
+  "fields": {
+    "code": "IPL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:30.341Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 137,
+  "fields": {
+    "code": "IGO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:33.793Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 138,
+  "fields": {
+    "code": "IFT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:37.113Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 139,
+  "fields": {
+    "code": "INA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:40.448Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 140,
+  "fields": {
+    "code": "ING",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:43.599Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 141,
+  "fields": {
+    "code": "IAG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:47.918Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 142,
+  "fields": {
+    "code": "IRI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:51.390Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 143,
+  "fields": {
+    "code": "IAP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:55.462Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 144,
+  "fields": {
+    "code": "IVC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:15:58.816Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 145,
+  "fields": {
+    "code": "IFL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:01.986Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 146,
+  "fields": {
+    "code": "IPH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:05.533Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 147,
+  "fields": {
+    "code": "IRE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:08.861Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 148,
+  "fields": {
+    "code": "ISX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:12.772Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 149,
+  "fields": {
+    "code": "JHX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:19.156Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 150,
+  "fields": {
+    "code": "JHG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:25.899Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 151,
+  "fields": {
+    "code": "JBH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:30.340Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 152,
+  "fields": {
+    "code": "JIN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:34.538Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 153,
+  "fields": {
+    "code": "JMS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:37.952Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 154,
+  "fields": {
+    "code": "KDR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:41.146Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 155,
+  "fields": {
+    "code": "LSF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:44.495Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 156,
+  "fields": {
+    "code": "LLC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:47.566Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 157,
+  "fields": {
+    "code": "LIC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:16:50.842Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 158,
+  "fields": {
+    "code": "LNK",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:17:01.511Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 159,
+  "fields": {
+    "code": "LOV",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:17:05.145Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 160,
+  "fields": {
+    "code": "LYC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:17:08.246Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 161,
+  "fields": {
+    "code": "MQG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:20:44.130Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 162,
+  "fields": {
+    "code": "MFG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:20:49.517Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 163,
+  "fields": {
+    "code": "MGG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:20:54.814Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 164,
+  "fields": {
+    "code": "MYX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:20:58.886Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 165,
+  "fields": {
+    "code": "MMS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:02.494Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 166,
+  "fields": {
+    "code": "MXT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:06.717Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 167,
+  "fields": {
+    "code": "MPL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:09.980Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 168,
+  "fields": {
+    "code": "MP1",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:13.943Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 169,
+  "fields": {
+    "code": "MCY",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:17.057Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 170,
+  "fields": {
+    "code": "MEZ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:21.909Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 171,
+  "fields": {
+    "code": "MSB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:26.398Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 172,
+  "fields": {
+    "code": "MTS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:32.955Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 173,
+  "fields": {
+    "code": "MFF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:36.141Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 174,
+  "fields": {
+    "code": "MLT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:39.177Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 175,
+  "fields": {
+    "code": "MIN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:42.205Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 176,
+  "fields": {
+    "code": "MGR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:45.909Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 177,
+  "fields": {
+    "code": "MOE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:50.314Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 178,
+  "fields": {
+    "code": "MND",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:53.690Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 179,
+  "fields": {
+    "code": "MGX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:21:57.283Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 180,
+  "fields": {
+    "code": "NAN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:00.685Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 181,
+  "fields": {
+    "code": "NAB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:06.617Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 182,
+  "fields": {
+    "code": "NSR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:10.135Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 183,
+  "fields": {
+    "code": "NGI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:14.356Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 184,
+  "fields": {
+    "code": "NVT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:17.781Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 185,
+  "fields": {
+    "code": "NEA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:22.014Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 186,
+  "fields": {
+    "code": "NWL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:25.793Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 187,
+  "fields": {
+    "code": "NHC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:31.268Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 188,
+  "fields": {
+    "code": "NCM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:38.043Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 189,
+  "fields": {
+    "code": "NWS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:42.670Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 190,
+  "fields": {
+    "code": "NXT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:22:45.860Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 191,
+  "fields": {
+    "code": "NHF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:01.373Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 192,
+  "fields": {
+    "code": "NEC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:05.048Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 193,
+  "fields": {
+    "code": "NST",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:09.234Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 194,
+  "fields": {
+    "code": "NWH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:12.546Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 195,
+  "fields": {
+    "code": "NUF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:18.366Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 196,
+  "fields": {
+    "code": "OCA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:21.667Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 197,
+  "fields": {
+    "code": "OSH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:25.312Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 198,
+  "fields": {
+    "code": "OMH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:29.749Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 199,
+  "fields": {
+    "code": "OML",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:33.579Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 200,
+  "fields": {
+    "code": "ORI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:37.260Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 201,
+  "fields": {
+    "code": "ORG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:40.353Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 202,
+  "fields": {
+    "code": "ORE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:46.826Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 203,
+  "fields": {
+    "code": "ORA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:23:53.699Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 204,
+  "fields": {
+    "code": "OZL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:08.798Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 205,
+  "fields": {
+    "code": "PGH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:15.380Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 206,
+  "fields": {
+    "code": "PDL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:22.365Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 207,
+  "fields": {
+    "code": "PPT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:26.671Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 208,
+  "fields": {
+    "code": "PRU",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:29.335Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 209,
+  "fields": {
+    "code": "PLS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:34.038Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 210,
+  "fields": {
+    "code": "PNI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:37.058Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 211,
+  "fields": {
+    "code": "PTM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:40.124Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 212,
+  "fields": {
+    "code": "PNV",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:49.072Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 213,
+  "fields": {
+    "code": "PMV",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:55.747Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 214,
+  "fields": {
+    "code": "PME",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:24:59.688Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 215,
+  "fields": {
+    "code": "PGL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:02.747Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 216,
+  "fields": {
+    "code": "PSI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:06.691Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 217,
+  "fields": {
+    "code": "PPH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:09.971Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 218,
+  "fields": {
+    "code": "QAN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:11.819Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 219,
+  "fields": {
+    "code": "QBE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:16.095Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 220,
+  "fields": {
+    "code": "QUB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:19.354Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 221,
+  "fields": {
+    "code": "RHC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:27.570Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 222,
+  "fields": {
+    "code": "REA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:31.458Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 223,
+  "fields": {
+    "code": "RDC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:34.879Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 224,
+  "fields": {
+    "code": "REH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:38.896Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 225,
+  "fields": {
+    "code": "REG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:44.209Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 226,
+  "fields": {
+    "code": "RRL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:47.433Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 227,
+  "fields": {
+    "code": "RWC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:50.723Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 228,
+  "fields": {
+    "code": "RMD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:54.147Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 229,
+  "fields": {
+    "code": "RSG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:25:57.692Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 230,
+  "fields": {
+    "code": "RBD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:01.813Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 231,
+  "fields": {
+    "code": "RIO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:04.752Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 232,
+  "fields": {
+    "code": "RFF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:07.836Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 233,
+  "fields": {
+    "code": "SFR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:12.112Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 234,
+  "fields": {
+    "code": "STO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:16.139Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 235,
+  "fields": {
+    "code": "SAR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:19.533Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 236,
+  "fields": {
+    "code": "SCP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:24.935Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 237,
+  "fields": {
+    "code": "SCG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:28.880Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 238,
+  "fields": {
+    "code": "SEK",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:32.123Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 239,
+  "fields": {
+    "code": "SHV",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:35.725Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 240,
+  "fields": {
+    "code": "SSM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:39.658Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 241,
+  "fields": {
+    "code": "SVW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:50.789Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 242,
+  "fields": {
+    "code": "SWM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:53.344Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 243,
+  "fields": {
+    "code": "SGF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:26:57.005Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 244,
+  "fields": {
+    "code": "SIG",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:03.071Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 245,
+  "fields": {
+    "code": "SLR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:07.227Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 246,
+  "fields": {
+    "code": "SGM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:10.763Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 247,
+  "fields": {
+    "code": "SKC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:14.423Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 248,
+  "fields": {
+    "code": "SIQ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:18.243Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 249,
+  "fields": {
+    "code": "SHL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:21.639Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 250,
+  "fields": {
+    "code": "SOL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:24.468Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 251,
+  "fields": {
+    "code": "S32",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:32.897Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 252,
+  "fields": {
+    "code": "SKI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:35.914Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 253,
+  "fields": {
+    "code": "SPK",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:39.034Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 254,
+  "fields": {
+    "code": "SDA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:44.074Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 255,
+  "fields": {
+    "code": "SPO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:50.280Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 256,
+  "fields": {
+    "code": "SBM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:55.829Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 257,
+  "fields": {
+    "code": "SDF",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:27:59.538Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 258,
+  "fields": {
+    "code": "SXL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:03.942Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 259,
+  "fields": {
+    "code": "SGP",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:07.351Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 260,
+  "fields": {
+    "code": "SNZ",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:12.248Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 261,
+  "fields": {
+    "code": "SUN",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:15.606Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 262,
+  "fields": {
+    "code": "SUL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:19.363Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 263,
+  "fields": {
+    "code": "SYD",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:24.981Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 264,
+  "fields": {
+    "code": "SM1",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:31.933Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 265,
+  "fields": {
+    "code": "TAH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:45.757Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 266,
+  "fields": {
+    "code": "TGR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:49.500Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 267,
+  "fields": {
+    "code": "TNE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:54.360Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 268,
+  "fields": {
+    "code": "TLS",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:28:57.521Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 269,
+  "fields": {
+    "code": "A2M",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:01.763Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 270,
+  "fields": {
+    "code": "SGR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:06.271Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 271,
+  "fields": {
+    "code": "TLT",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:10.367Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 272,
+  "fields": {
+    "code": "TPM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:13.432Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 273,
+  "fields": {
+    "code": "TCL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:17.030Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 274,
+  "fields": {
+    "code": "TWE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:20.720Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 275,
+  "fields": {
+    "code": "URW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:23.872Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 276,
+  "fields": {
+    "code": "VGI",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:27.809Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 277,
+  "fields": {
+    "code": "VCX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:30.904Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 278,
+  "fields": {
+    "code": "VAH",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:34.624Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 279,
+  "fields": {
+    "code": "VGL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:38.613Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 280,
+  "fields": {
+    "code": "VEA",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:42.734Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 281,
+  "fields": {
+    "code": "VVR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:47.422Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 282,
+  "fields": {
+    "code": "VOC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:51.494Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 283,
+  "fields": {
+    "code": "WAM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:29:55.399Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 284,
+  "fields": {
+    "code": "WLE",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:03.413Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 285,
+  "fields": {
+    "code": "WEB",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:09.498Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 286,
+  "fields": {
+    "code": "WES",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:12.545Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 287,
+  "fields": {
+    "code": "WGX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:16.503Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 288,
+  "fields": {
+    "code": "WBC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:20.137Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 289,
+  "fields": {
+    "code": "WHC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:30.639Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 290,
+  "fields": {
+    "code": "WTC",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:34.696Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 291,
+  "fields": {
+    "code": "WPL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:37.537Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 292,
+  "fields": {
+    "code": "WOW",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:47.169Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 293,
+  "fields": {
+    "code": "WOR",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:50.540Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 294,
+  "fields": {
+    "code": "XRO",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:30:59.148Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 295,
+  "fields": {
+    "code": "YAL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:31:02.377Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 296,
+  "fields": {
+    "code": "ZEL",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:31:07.429Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 297,
+  "fields": {
+    "code": "ZIM",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:31:10.914Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 298,
+  "fields": {
+    "code": "Z1P",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:31:16.285Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 299,
+  "fields": {
+    "code": "VG1",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T09:39:29.410Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+},
+{
+  "model": "instruments.instrument",
+  "pk": 300,
+  "fields": {
+    "code": "APX",
+    "exchange_code": "AX",
+    "date_created": "2019-06-27T12:51:21.304Z",
+    "date_modified": "2019-06-29T09:30:17.045Z"
+  }
+}
+]

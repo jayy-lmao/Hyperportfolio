@@ -1,0 +1,262 @@
+info:
+  description: ''
+  title: ''
+  version: ''
+openapi: 3.0.0
+paths:
+  /api/instruments/:
+    get:
+      operationId: instruments_list
+      tags:
+      - instruments
+    post:
+      operationId: instruments_create
+      tags:
+      - instruments
+  /api/instruments/{id}/:
+    delete:
+      operationId: instruments_delete
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this instrument.
+          title: ID
+          type: integer
+      tags:
+      - instruments
+    get:
+      operationId: instruments_read
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this instrument.
+          title: ID
+          type: integer
+      tags:
+      - instruments
+    patch:
+      operationId: instruments_partial_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this instrument.
+          title: ID
+          type: integer
+      tags:
+      - instruments
+    put:
+      operationId: instruments_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this instrument.
+          title: ID
+          type: integer
+      tags:
+      - instruments
+  /api/login/:
+    post:
+      description: 'Takes a set of user credentials and returns an access and refresh
+        JSON web
+
+        token pair to prove the authentication of those credentials.'
+      operationId: login_create
+      tags:
+      - login
+  /api/users/:
+    get:
+      operationId: users_list
+      tags:
+      - users
+    post:
+      operationId: users_create
+      tags:
+      - users
+  /api/users/{id}/:
+    delete:
+      operationId: users_delete
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this user.
+          title: ID
+          type: integer
+      tags:
+      - users
+    get:
+      operationId: users_read
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this user.
+          title: ID
+          type: integer
+      tags:
+      - users
+    patch:
+      operationId: users_partial_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this user.
+          title: ID
+          type: integer
+      tags:
+      - users
+    put:
+      operationId: users_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: A unique integer value identifying this user.
+          title: ID
+          type: integer
+      tags:
+      - users
+  /api/watchlistdetails/:
+    get:
+      operationId: watchlistdetails_list
+      tags:
+      - watchlistdetails
+    post:
+      operationId: watchlistdetails_create
+      tags:
+      - watchlistdetails
+  /api/watchlistdetails/{id}/:
+    delete:
+      operationId: watchlistdetails_delete
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlistdetails
+    get:
+      operationId: watchlistdetails_read
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlistdetails
+    patch:
+      operationId: watchlistdetails_partial_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlistdetails
+    put:
+      operationId: watchlistdetails_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlistdetails
+  /api/watchlists/:
+    get:
+      operationId: watchlists_list
+      tags:
+      - watchlists
+    post:
+      operationId: watchlists_create
+      tags:
+      - watchlists
+  /api/watchlists/{id}/:
+    delete:
+      operationId: watchlists_delete
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlists
+    get:
+      operationId: watchlists_read
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlists
+    patch:
+      operationId: watchlists_partial_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlists
+    put:
+      operationId: watchlists_update
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlists
+  /api/watchlists/{id}/details/:
+    get:
+      operationId: watchlists_details
+      parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          description: ''
+          title: ''
+          type: string
+      tags:
+      - watchlists
+servers:
+- url: ''

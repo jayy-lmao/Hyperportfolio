@@ -1,0 +1,22 @@
+[
+{
+  "model": "portfolios.transactiontype",
+  "pk": 1,
+  "fields": {
+    "code": "BUY",
+    "description": "Buy",
+    "date_created": "2019-07-04T12:43:35.350Z",
+    "date_modified": "2019-07-04T12:43:35.350Z"
+  }
+},
+{
+  "model": "portfolios.transactiontype",
+  "pk": 2,
+  "fields": {
+    "code": "SELL",
+    "description": "Sell",
+    "date_created": "2019-07-04T12:43:41.105Z",
+    "date_modified": "2019-07-04T12:43:41.105Z"
+  }
+}
+]

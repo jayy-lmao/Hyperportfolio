@@ -1,0 +1,43 @@
+sudo: required
+branches:
+  except: [".."]
+  only: ["master"]
+services:
+  - docker
+before_install:
+  # Close base databases and check docker
+  - cd src
+  - docker -v
+  - sudo /etc/init.d/mysql stop
+  - sudo /etc/init.d/postgresql stop
+  - docker-compose -f dc-test.yml up -d
+  - sleep 60
+script:
+  - docker run -it --net=host -v $PWD:/e2e -w /e2e cypress/included:3.4.0 
+
+
+after_success:
+  - docker build -t jayylmao/hyperportfolio-client -f ./frontend/Dockerfile ./frontend
+  - docker build -t jayylmao/hyperportfolio-nginx -f ./nginx/Dockerfile ./nginx
+  - docker build -t jayylmao/hyperportfolio-server -f ./app/Dockerfile ./app
+    
+  # Log into the docker CLI
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+  # Take the images and push them
+  - docker push jayylmao/hyperportfolio-client
+  - docker push jayylmao/hyperportfolio-nginx 
+  - docker push jayylmao/hyperportfolio-server
+
+deploy:
+  provider: elasticbeanstalk
+  region: ap-southeast-2
+  app: hyperportfolio
+  env: Hyperportfolio-env
+  bucket_name: elasticbeanstalk-ap-southeast-2-265361481462
+  bucket_path: hyperportfolio
+  on:
+    branch: master
+  access_key_id:
+    secure: $AWS_ACCESS_KEY
+  secret_access_key:
+    secure: $AWS_SECRET_KEY
