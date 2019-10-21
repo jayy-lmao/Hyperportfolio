@@ -1,23 +1,23 @@
  
-
-[![](docs/images/hyperportfolio_gh.jpg)](http://hyperportfol.io/)
-
+![](docs/images/hyperportfolio_gh.jpg)
 
 
-Built by **Mujeok Coderz** for *COMP3900/9900*
+
+Built by **Mujeok Coderz** for *UNSW Capstone project*
 
 ![Build Status](https://travis-ci.com/unsw-cse-comp3900-9900/capstone-project-mujeok_coderz.svg?token=3r5G2uou25xnFnDvhz79&branch=master)
 
 ## Usage
 
-For the best experience of using the app, we recommend visiting our website, currently hosted on AWS.
+~~~For the best experience of using the app, we recommend visiting our website, formerly hosted on AWS.
 
 **Website** can be found on:
 
 [http://hyperportfol.io](http://hyperportfol.io/)
 
-Registration only requires address of `[A-z]@[A-z].[A-z]`, and will not be verified. (This is in part to avoid our storage of peoples emails for a educational site)
+Registration only requires address of `[A-z]@[A-z].[A-z]`, and will not be verified. (This is in part to avoid our storage of peoples emails for a educational site)~~
 
+Site is no longer hosted, but can be run locally if given a rapidAPI key.
 
 
 ## Development
