@@ -7,7 +7,7 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
-django = "==2.2.4"
+django = "==2.2.21"
 gunicorn= "==19.9.0"
 djangorestframework-simplejwt = "*"
 django-jenkins = "==0.110.0"
