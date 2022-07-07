@@ -15,7 +15,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "pure-react-carousel": "^1.21.1",
     "react": "^16.8.6",
